@@ -1,4 +1,8 @@
-# d:swarm-documentation
+---
+title: d:swarm documentation
+---
+
+# d:swarm documentation
 ____
     
 ## Introduction
